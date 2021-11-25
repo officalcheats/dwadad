@@ -1,0 +1,6 @@
+
+
+if getgenv().key == "-6sNh4n5b5y6)9/+" then
+    print("ol")
+   
+    end
